@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 Actualmente trabajo como docente
+- 🌱 Me encuentro aprendiendo sobre GIT y GIT HUB
+- ⚡ Las cosas que más me divierten son los videojuegos y la electrónica
 <!--
 **Dial3D/dial3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
